@@ -1,5 +1,4 @@
-﻿from .din3962_1 import GearToothQuality
-
+﻿from din3962 import GearToothQuality
 
 
 def Deviations(q : GearToothQuality, b : float):
