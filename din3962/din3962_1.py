@@ -1,4 +1,4 @@
-from din3962 import GearToothQuality
+import din3962
 
 
 

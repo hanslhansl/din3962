@@ -17,5 +17,6 @@ class GearToothQuality(IntEnum):
     DIN10 = 10
     DIN11 = 11
     DIN12 = 12
-
-from . import din3962_1, din3962_2
+    
+from .din3962_1 import *
+from .din3962_2 import *
